@@ -1,2 +1,2 @@
-# first_app
-# React-Native---Styled-App
+
+# React-Native-Styled-App
